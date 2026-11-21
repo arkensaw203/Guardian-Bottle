@@ -9,7 +9,9 @@
 # 不用接任何零件，Thonny 右下角選 Local Python 3 就能跑。
 # 做完存檔。做完 D05、D10 各上傳一次到 groups/你們組/（見 drills/README.md）。
 
-group = 3
+group = 8
 team = "守護小隊"
-members = 4
+members = 3
 # TODO：印出「第 3 組：守護小隊」和「組員 4 人」
+print("第",group,"組",team)
+print("組員",members,"人")
